@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.author       = { "Azarashi" => "tsuyopon1981@gmail.com" }
   s.platform     = :ios, '5.1'
   s.requires_arc = true
-  s.source       = { :git => "https://github.com/tsuyopon/podspec.git", :tag => s.version.to_s }
-  s.source_files = 'rssmanager/*.{h,m}'
+  s.source       = { :git => "https://github.com/tsuyopon/rssmanager.git", :tag => s.version.to_s }
+  s.source_files = 'rssmanager/**/*.{h,m}'
 end
