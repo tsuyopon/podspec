@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "rssmanager"
+  s.name         = "rssmanager_ios"
   s.version      = "0.0.1"
   s.summary      = "Rss manager."
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
