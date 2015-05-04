@@ -6,7 +6,6 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/tsuyopon"
   s.author       = { "Azarashi" => "tsuyopon1981@gmail.com" }
   s.platform     = :ios, '5.1'
-  s.ios.deployment.target = '5.1'
   s.requires_arc = true
   s.source       = { :git => "git@github.com:tsuyopon/rssmanager_ios.git", :tag => s.version.to_s }
   s.source_files = 'rssmanager_ios/**/*.{h,m}'
