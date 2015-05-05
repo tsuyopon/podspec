@@ -1,6 +1,8 @@
 # podspec
 podspec files for Pod
 
+
+<h1>rssmanagerセットアップ</h1>
 プロジェクト直下に下記ファイルを作成します。
 
 <pre><code>
